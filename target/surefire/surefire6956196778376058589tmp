@@ -1,0 +1,24 @@
+#surefire
+#Fri Jun 23 17:08:58 EDT 2017
+testClassesDirectory=/src/filescan/target/test-classes
+classPathUrl.2=/home/mclark/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar
+useManifestOnlyJar=true
+classPathUrl.1=/src/filescan/target/classes
+reportsDirectory=/src/filescan/target/surefire-reports
+classPathUrl.0=/src/filescan/target/test-classes
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=/src/filescan/src/test/java
+surefireClassPathUrl.1=/home/mclark/.m2/repository/org/apache/maven/surefire/surefire-api/2.12.4/surefire-api-2.12.4.jar
+surefireClassPathUrl.0=/home/mclark/.m2/repository/org/apache/maven/surefire/surefire-junit3/2.12.4/surefire-junit3-2.12.4.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+tc.0=org.mac.common.filescan.AppTest
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+runStatisticsFile=/src/filescan/.surefire-C0A0288482538E2009A60DAE7C5D69E79E7C3FCE
+includes0=**/Test*.java
+childDelegation=false

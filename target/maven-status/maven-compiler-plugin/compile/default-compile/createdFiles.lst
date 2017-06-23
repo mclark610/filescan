@@ -1,0 +1,4 @@
+org/mac/common/filescan/FileList.class
+org/mac/common/filescan/App.class
+org/mac/common/filescan/FileDataException.class
+org/mac/common/filescan/ConfigFile.class
